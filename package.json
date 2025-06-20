@@ -1,0 +1,17 @@
+{
+  "name": "04-clean-ddd-forum",
+  "version": "1.0.0",
+  "description": "API designed to represent a forum, using Clean Architecture and DDD principles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
