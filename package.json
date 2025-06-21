@@ -4,7 +4,8 @@
   "description": "API designed to represent a forum, using Clean Architecture and DDD principles.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "keywords": [],
   "author": "",
