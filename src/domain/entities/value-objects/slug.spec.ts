@@ -1,5 +1,5 @@
 import { expect, test } from "vitest";
-import { Slug } from "./slug";
+import { Slug } from "@/domain/entities/value-objects/slug";
 
 test("should be able to create a new slug from a text", () => {
   const slug = Slug.createFromText("Example question title");
